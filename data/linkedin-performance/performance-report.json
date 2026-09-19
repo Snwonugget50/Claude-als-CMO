@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-09-19T13:59:09.656372",
+  "total_posts": 5,
+  "total_impressions": 13515,
+  "total_engagement": 48.0,
+  "avg_engagement_rate": 9.6,
+  "by_post_type": {
+    "Awareness": {
+      "count": 2,
+      "avg_engagement_rate": 10.15,
+      "avg_ctr": 10.15,
+      "total_clicks": 606,
+      "total_comments": 130,
+      "avg_impressions": 2898.0
+    },
+    "Education": {
+      "count": 1,
+      "avg_engagement_rate": 11.5,
+      "avg_ctr": 11.5,
+      "total_clicks": 359,
+      "total_comments": 72,
+      "avg_impressions": 3120.0
+    },
+    "Conversion": {
+      "count": 1,
+      "avg_engagement_rate": 6.8,
+      "avg_ctr": 6.8,
+      "total_clicks": 128,
+      "total_comments": 38,
+      "avg_impressions": 1890.0
+    },
+    "Personal Story": {
+      "count": 1,
+      "avg_engagement_rate": 9.4,
+      "avg_ctr": 9.4,
+      "total_clicks": 255,
+      "total_comments": 61,
+      "avg_impressions": 2710.0
+    }
+  },
+  "by_kmu_segment": {
+    "Ressourcen-Manager": {
+      "count": 2,
+      "avg_engagement_rate": 10.15,
+      "avg_ctr": 10.15,
+      "total_clicks": 606,
+      "total_comments": 130
+    },
+    "AI-Skeptiker": {
+      "count": 1,
+      "avg_engagement_rate": 11.5,
+      "avg_ctr": 11.5,
+      "total_clicks": 359,
+      "total_comments": 72
+    },
+    "Budget-Manager": {
+      "count": 1,
+      "avg_engagement_rate": 6.8,
+      "avg_ctr": 6.8,
+      "total_clicks": 128,
+      "total_comments": 38
+    },
+    "Fachkräfte-Mangel": {
+      "count": 1,
+      "avg_engagement_rate": 9.4,
+      "avg_ctr": 9.4,
+      "total_clicks": 255,
+      "total_comments": 61
+    }
+  },
+  "by_hook_variant": {
+    "Effizienz-Framing": {
+      "count": 1,
+      "avg_engagement_rate": 8.2,
+      "avg_ctr": 8.2,
+      "best_performer": "LP-001"
+    },
+    "Bedenken-Validierung": {
+      "count": 1,
+      "avg_engagement_rate": 11.5,
+      "avg_ctr": 11.5,
+      "best_performer": "LP-002"
+    },
+    "Budget-Reallokation": {
+      "count": 1,
+      "avg_engagement_rate": 6.8,
+      "avg_ctr": 6.8,
+      "best_performer": "LP-003"
+    },
+    "Know-How-Rettung": {
+      "count": 1,
+      "avg_engagement_rate": 9.4,
+      "avg_ctr": 9.4,
+      "best_performer": "LP-004"
+    },
+    "Schnell-Gewinn-Framing": {
+      "count": 1,
+      "avg_engagement_rate": 12.1,
+      "avg_ctr": 12.1,
+      "best_performer": "LP-005"
+    }
+  },
+  "top_3_by_engagement": [
+    {
+      "post_id": "LP-005",
+      "post_type": "Awareness",
+      "engagement_rate": 12.1,
+      "clicks": 405
+    },
+    {
+      "post_id": "LP-002",
+      "post_type": "Education",
+      "engagement_rate": 11.5,
+      "clicks": 359
+    },
+    {
+      "post_id": "LP-004",
+      "post_type": "Personal Story",
+      "engagement_rate": 9.4,
+      "clicks": 255
+    }
+  ]
+}

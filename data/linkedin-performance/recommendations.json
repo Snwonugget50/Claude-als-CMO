@@ -1,0 +1,67 @@
+{
+  "next_post_recommendation": {
+    "post_type": "Education",
+    "post_type_engagement": 11.5,
+    "kmu_segment": "AI-Skeptiker",
+    "segment_engagement": 11.5,
+    "hook_variant": "Schnell-Gewinn-Framing",
+    "hook_engagement": 12.1,
+    "expected_engagement": 11.7,
+    "reasoning": "Based on recent performance: Education posts with Schnell-Gewinn-Framing hook resonate best with AI-Skeptiker segment."
+  },
+  "top_3_post_types": [
+    [
+      "Education",
+      11.5
+    ],
+    [
+      "Awareness",
+      10.15
+    ],
+    [
+      "Personal Story",
+      9.4
+    ]
+  ],
+  "top_3_segments": [
+    [
+      "AI-Skeptiker",
+      11.5
+    ],
+    [
+      "Ressourcen-Manager",
+      10.15
+    ],
+    [
+      "Fachkräfte-Mangel",
+      9.4
+    ]
+  ],
+  "top_3_hooks": [
+    [
+      "Schnell-Gewinn-Framing",
+      12.1
+    ],
+    [
+      "Bedenken-Validierung",
+      11.5
+    ],
+    [
+      "Know-How-Rettung",
+      9.4
+    ]
+  ],
+  "underperforming_segments": [
+    {
+      "segment": "Budget-Manager",
+      "engagement": 6.8,
+      "gap": 2.8
+    }
+  ],
+  "optimization_suggestions": [
+    "📈 Scale Education posts — they're performing 11.5% engagement (your best)",
+    "🎯 Focus on AI-Skeptiker content — this segment shows 11.5% engagement",
+    "🔥 Use Schnell-Gewinn-Framing hook in next 3 posts — it's your winner at 12.1%",
+    "⚠️ Budget-Manager posts underperform by 2.8pp — test new angles"
+  ]
+}

@@ -1,0 +1,6 @@
+post_id,publish_date,post_type,kmu_segment,hook_variant,language,impressions,engagement_rate,clicks,comments,shares,ctr_percent,days_tracked,status
+LP-001,2026-09-15,Awareness,Ressourcen-Manager,Effizienz-Framing,DE,2450,8.2,201,45,32,8.2,4,active
+LP-002,2026-09-12,Education,AI-Skeptiker,Bedenken-Validierung,DE,3120,11.5,359,72,48,11.5,7,active
+LP-003,2026-09-10,Conversion,Budget-Manager,Budget-Reallokation,DE,1890,6.8,128,38,21,6.8,9,active
+LP-004,2026-09-08,Personal Story,Fachkräfte-Mangel,Know-How-Rettung,DE,2710,9.4,255,61,35,9.4,11,active
+LP-005,2026-09-05,Awareness,Ressourcen-Manager,Schnell-Gewinn-Framing,DE,3345,12.1,405,85,52,12.1,14,closed
