@@ -35,6 +35,14 @@ Before creating content, clarify:
 4. **Language** — DE or EN?
 5. **Target Audience** — KMU leaders, CCOs, marketing managers?
 
+**CRITICAL: The 3-Question Gate** ⚠️
+Only proceed if you can answer ALL THREE:
+- **Kundenorientierung**: Welches konkrete Problem des Kunden spreche ich an?
+- **Kundenperspektive**: Was weiß oder versteht der Kunde NACH diesem Post besser?
+- **Relevanznachweis**: Warum ist das, was wir machen, für SEIN Projekt relevant?
+
+→ Wenn keine vernünftige Antwort möglich: **NICHT POSTEN.** Qualität vor Quantität.
+
 ### Step 2: Select Post Type
 
 Consult `references/post-types.md` for the full 7-type system with structures, hook patterns, and character counts.
@@ -53,10 +61,12 @@ Consult `references/post-types.md` for the full 7-type system with structures, h
 
 ### Step 3: Write the Post
 
+**GOLDEN RULE**: Every sentence must answer "Ist das für meinen Kunden relevant?"
+
 Follow this structure for every post:
 
-1. **Hook** (first 2-3 lines): Must stop the scroll. Use patterns from `references/post-types.md`.
-2. **Body**: Follow the type-specific structure. One idea per post.
+1. **Hook** (first 2-3 lines): Must stop the scroll + solve a real customer problem. Use patterns from `references/post-types.md`.
+2. **Body**: Follow the type-specific structure. One idea per post. Focus on CUSTOMER pain, not your cool solution.
 3. **CTA**: Match to post type. See `references/cta-library.md`.
 4. **Standard Footer**: Always end with:
    ```
@@ -114,6 +124,9 @@ When asked to plan a week or month:
 ## Quality Checklist
 
 Before delivering any post:
+- [ ] **Kundenprobleme konkret**: Spreche ich ein spezifisches Problem an oder bleibe ich abstrakt?
+- [ ] **Kundennutzen vor Eigeninteresse**: Ist das relevant für den Kunden oder nur interessant für mich?
+- [ ] **Relevanznachweis**: Kann ich begründen, warum MEINE Lösung für SEIN Problem relevant ist?
 - [ ] Hook grabs attention in first 2 lines?
 - [ ] One angle, one idea per post?
 - [ ] Zero external links in post body?
