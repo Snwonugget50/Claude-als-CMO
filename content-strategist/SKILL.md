@@ -43,16 +43,107 @@ Only proceed if you can answer ALL THREE:
 
 → Wenn keine vernünftige Antwort möglich: **NICHT POSTEN.** Qualität vor Quantität.
 
-### Step 2: Select Post Type & Audience Segment
+### Step 2: Identify KMU Segment & Select Hook
 
-**For KMU-focused content**, first consult `references/kmu-hooks-library.md` to identify:
-- Which KMU segment (Ressource-Manager / AI-Skeptiker / Budget-focused / Fachkräfte-Mangel)
-- Which specific problem within that segment
-- Then select post type that matches
+**FAST FLOW: Identify Target KMU Segment**
 
-Consult `references/post-types.md` for the full 7-type system with structures, hook patterns, and character counts.
+Ask: "Which KMU segment are we talking to?"
 
-**Quick reference:**
+| Segment | Pain Point | Best Post Type | Hook Pattern |
+|---------|-----------|----------------|--------------|
+| **🔧 Ressourcen-Manager** | Weniger Zeit/Budget/Personal als Große | Awareness + Conversion | Effizienz-Framing / Schnell-Gewinn |
+| **🚫 AI-Skeptiker** | "Funktioniert bei uns nicht" / Zu riskant | Education | Bedenken-Validierung / ROI-Real-Talk |
+| **💰 Budget-Manager** | Zu teuer / Budget-Engpässe | Conversion | Budget-Reallokation / Quick-Win / ROI-Kosten |
+| **👥 Fachkräfte-Mangel** | "Niemand zu heuern" / Know-how-Verlust | Personal Story | Know-How-Rettung / Junior-Leveling |
+
+---
+
+### **KMU-Hooks: Ready-to-Use Varianten**
+
+#### 🔧 Ressourcen-Manager Hooks:
+
+**Effizienz-Framing (Awareness)**
+```
+Große Agenturen haben mehr Budget, aber nicht mehr Zeit.
+Wir zeigen, wie kleine Teams 3x schneller werden — ohne neue Mitarbeiter zu heuern.
+```
+
+**Schnell-Gewinn-Framing (Conversion)**
+```
+30 Minuten Setup. 3 Tage bis sichtbares Ergebnis.
+Wie kleine Teams sofort profitieren — ohne großes Change-Management-Drama.
+```
+
+**Gegenbeweis-Framing (Awareness)**
+```
+Die meisten glauben: "KI ist nur was für große Konzerne."
+Falsch. Wir betreuen 50+ KMUs — die liefern bessere Ergebnisse als Großkonzerne.
+```
+
+---
+
+#### 🚫 AI-Skeptiker Hooks:
+
+**Bedenken-Validierungs-Framing (Education)**
+```
+"KI könnte unsere Prozesse zerstören" — dieser Gedanke ist nicht falsch.
+Nur: Ohne KI werden eure Konkurrenten schneller. Hier sind die 3 echten Risiken — und wie ihr sie vermeidet.
+```
+
+**ROI-Real-Talk-Framing (Education)**
+```
+"Zeigt mir konkrete ROI, dann mache ich mit."
+Fair. Wir haben die Zahlen aus 50+ Projekten. Das waren die grössten Hebel: [konkrete Metriken]
+```
+
+**Status-Quo-Kosten-Framing (Awareness)**
+```
+"Wir warten ab, bis AI reifer ist."
+Kosten der Untätigkeit 2025: [konkrete Zahlen zu Marktshift, Produktivitätslücke]
+```
+
+---
+
+#### 💰 Budget-Manager Hooks:
+
+**Budget-Reallokations-Framing (Conversion)**
+```
+Nicht "Zusatz-Budget für KI", sondern:
+Wie ihr Budget aus Aufgaben freimacht, die KI übernimmt. (Konkret: Hälfte der [Prozess X] kann weg.)
+```
+
+**Quick-Win-Framing (Conversion)**
+```
+"Grosse KI-Projekte dauern 6 Monate." Falsch.
+Wir starten mit 2-3 Schnell-Wins (3 Wochen). Dann skalieren wir mit echtem ROI.
+```
+
+**Produktivitäts-ROI-Framing (Awareness)**
+```
+Ein Mitarbeiter verschenkt täglich 1,5h für [repetitive Aufgabe].
+Bei €60/h = €15k/Jahr pro Person. Mit eurem Headcount = [konkrete Zahl].
+Das ist euer KI-Budget schon bezahlt.
+```
+
+---
+
+#### 👥 Fachkräfte-Mangel Hooks:
+
+**Know-How-Rettungs-Framing (Personal Story)**
+```
+Ein 20-Jahre-Experte kündigt. Was geht verloren?
+Bei 3 Kunden haben wir die Fachkräfte-Flüchtlinge mit KI-Dokumentation gerettet.
+```
+
+**Junior-Leveling-Framing (Personal Story)**
+```
+"Junior-Entwickler sind nicht produktiv genug."
+Stimmt. Aber mit KI-Pair-Programming waren sie nach 1 Monat auf Senior-Level.
+```
+
+---
+
+### Post Type Quick Reference:
 
 | Type | Best For | Engagement | Length |
 |------|----------|------------|--------|
@@ -83,17 +174,49 @@ Follow this structure for every post:
    Folge Hartmut Hübner, PhD für KI-Praxis-Impulse.
    ```
 
-### Step 4: Write the First Comment
+### Step 4: Write the First Comment (with KMU-Engagement Patterns)
 
 **360Brew Rule**: LinkedIn's algorithm penalizes external links in the post body (~50% less reach). Always put links in the first comment.
 
-Format:
+**Choose KMU-optimized First Comment Pattern:**
+
+#### Pattern 1: Frage + Problem-Spezifischer Teaser
+```
+Ihr seid in einer dieser Situationen?
+1. [KMU-Problem A] → 30-Min Call für schnelle Lösung
+2. [KMU-Problem B] → Kostenlose Audit
+3. [KMU-Problem C] → Guide im Kommentar
+
+Sagt Bescheid — ich helfe konkret.
+
+📎 [Resource/Guide Link für spezifisches Problem]
+```
+
+#### Pattern 2: Daten + Engagement
+```
+Die Zahlen aus 50+ KMU-Projekten zeigen:
+- [Metrik 1]
+- [Metrik 2]
+- [Metrik 3]
+
+Welcher dieser 3 Hebel ist bei euch der grösste? Kommentiert unten.
+(Ich schreibe dann spezifisch für eure Situation — Grösse, Branche, Budget)
+
+📎 Fallstudie/Analyse: [Link]
+```
+
+#### Pattern 3: Sourcen + Call-to-Action
 ```
 📎 Quellen / Sources:
 → [Source Name]: [URL]
+→ [Source Name]: [URL]
 
-[Optional: Teaser for newsletter or resource]
+[Konkrete Nächste Schritte oder Frage für Kommentare]
+
+Schreib 🔥 wenn das bei dir relevant ist — ich schicke dir die volle Analyse für deine Branche.
 ```
+
+**KMU-Rule**: Erste Comment sollte NIEMALS nur Sourcen sein. Immer: Frage oder konkrete Nächste Schritte.
 
 ### Step 5: Create Graphic Prompt
 
@@ -126,21 +249,31 @@ When asked to plan a week or month:
 - **No mixed languages** within a single post (except established terms: Lean AI, Kaizen, etc.)
 - **Source citation in post**: "Laut [Quelle] (Jahr)..." — never "Studien zeigen..." without naming
 
-## Quality Checklist
+## Quality Checklist — KMU-Edition
 
-Before delivering any post:
-- [ ] **Kundenprobleme konkret**: Spreche ich ein spezifisches Problem an oder bleibe ich abstrakt?
-- [ ] **Kundennutzen vor Eigeninteresse**: Ist das relevant für den Kunden oder nur interessant für mich?
-- [ ] **Relevanznachweis**: Kann ich begründen, warum MEINE Lösung für SEIN Problem relevant ist?
+### The 3-Question Gate (MUST PASS ALL 3):
+- [ ] **Kundenprobleme konkret**: Nenne ich ein spezifisches KMU-Problem (nicht "AI ist wichtig")?
+- [ ] **Kundenperspektive**: Was weiß der KMU-Manager NACH diesem Post besser?
+- [ ] **Relevanznachweis**: Warum ist MEINE Lösung für SEIN Problem relevant?
+
+### KMU-Segment-Spezifisch:
+- [ ] **Segment Clarity**: Weiß der KMU sofort, dass ich über IHN spreche? (Name des Segments nennen oder Pain Point klar machen)
+- [ ] **Gegenbeweis oder Validierung**: Adressiere ich echte Einwände (nicht Marketing-Märchen)?
+- [ ] **KMU-Maßstäbe**: Spreche ich in KMU-Metriken (Headcount 5-50, Budget <€500k), nicht Konzern-Zahlen?
+- [ ] **First Comment Value**: Hat die First Comment echten Mehrwert (Frage, Checkliste, nächste Schritte) — nicht nur Quellen?
+
+### Technical Checklist:
 - [ ] Hook grabs attention in first 2 lines?
 - [ ] One angle, one idea per post?
 - [ ] Zero external links in post body?
 - [ ] CTA matches funnel stage?
 - [ ] Standard footer included?
-- [ ] First comment with sources prepared?
+- [ ] First comment with KMU engagement pattern?
 - [ ] Graphic prompt complete (not just variable parts)?
 - [ ] Language rules followed (ss, Du-Form)?
 - [ ] Character count within type range?
+
+**RULE**: Wenn ein "3-Question Gate" Punkt unbeantwortet ist → **NICHT POSTEN.**
 
 ## Collaboration
 
