@@ -43,7 +43,12 @@ Only proceed if you can answer ALL THREE:
 
 → Wenn keine vernünftige Antwort möglich: **NICHT POSTEN.** Qualität vor Quantität.
 
-### Step 2: Select Post Type
+### Step 2: Select Post Type & Audience Segment
+
+**For KMU-focused content**, first consult `references/kmu-hooks-library.md` to identify:
+- Which KMU segment (Ressource-Manager / AI-Skeptiker / Budget-focused / Fachkräfte-Mangel)
+- Which specific problem within that segment
+- Then select post type that matches
 
 Consult `references/post-types.md` for the full 7-type system with structures, hook patterns, and character counts.
 
